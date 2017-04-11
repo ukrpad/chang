@@ -1,0 +1,274 @@
+.but {
+  font-size: 50px;
+  color: #fff; /* цвет текста */
+  text-decoration: none; /* убирать подчёркивание у ссылок */
+  user-select: none; /* убирать выделение текста */
+  background: #C0C0C0; /* фон кнопки */
+  padding: .08em .7em; /* отступ от текста */
+  outline: none; /* убирать контур в Mozilla */
+} 
+.but:hover { background: #D3D3D3; } /* при наведении курсора мышки */
+.but:active { background: #DCDCDC; } /* при нажатии */
+.but {
+
+    position: absolute;
+    top: 69%;
+    left: 52.9%;
+    margin: -125px 0 0 -125px;
+}
+
+
+.cg {
+text-align: center;
+opacity: 0.75; /* Значение прозрачности */
+}
+
+.cg2 {
+position: absolute;
+top: 15%;
+left: 20.2%;
+text-align: center;
+opacity: 0.6; /* Значение прозрачности */
+}
+
+
+.cp {
+color: #FFFFFF;
+font-size: 100px;
+user-select: none;
+outline: none;
+}
+
+.cp2 {
+color: #FFFFFF;
+font-size: 55px;
+user-select: none;
+outline: none;
+}
+
+.form1 {
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 0px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+  color: #555;
+  display: block;
+  font-size: 20px;
+  height: 34px;
+  line-height: 1.42857;
+  padding: 6px 12px;
+  transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+  width: 24%;
+  opacity: 0.6;
+  position: absolute;
+  margin-top: 1%;
+  margin-left: 7%;
+}
+
+.form2 {
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 0px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+  color: #555;
+  display: block;
+  font-size: 20px;
+  height: 34px;
+  line-height: 1.42857;
+  padding: 6px 12px;
+  transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+  width: 24%;
+  opacity: 0.6;
+  position: absolute;
+  margin-top: 1%;
+  margin-left: 37%;
+}
+
+.form3 {
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 0px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+  color: #555;
+  display: block;
+  font-size: 20px;
+  height: 34px;
+  line-height: 1.42857;
+  padding: 6px 12px;
+  transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+  width: 24%;
+  opacity: 0.6;
+  position: absolute;
+  margin-top: 1%;
+  margin-left: 67%;
+}
+
+.dn1 {
+  font-size: 20px;
+  width: 24%;
+  height: 6%;
+  opacity: 0.6;
+  position: absolute;
+  margin-top: 10%;
+  margin-left: 7%;
+}
+
+.dn2 {
+  font-size: 20px;
+  width: 24%;
+  height: 6%;
+  opacity: 0.6;
+  position: absolute;
+  margin-top: 10%;
+  margin-left: 37%;
+}
+
+.dn3 {
+  font-size: 20px;
+  width: 24%;
+  height: 6%;
+  opacity: 0.6;
+  position: absolute;
+  margin-top: 10%;
+  margin-left: 67%;
+}
+
+.em {
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 0px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+  color: #555;
+  display: block;
+  font-size: 20px;
+  height: 34px;
+  line-height: 1.42857;
+  padding: 6px 12px;
+  transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+  width: 24%;
+  opacity: 0.6;
+  position: absolute;
+  margin-top: 19%;
+  margin-left: 7%;
+}
+
+.nx {
+  font-size: 50px;
+  color: #fff; /* цвет текста */
+  text-decoration: none; /* убирать подчёркивание у ссылок */
+  user-select: none; /* убирать выделение текста */
+  background: #C0C0C0; /* фон кнопки */
+  padding: .08em .7em; /* отступ от текста */
+  outline: none; /* убирать контур в Mozilla */
+} 
+.nx:hover { background: #D3D3D3; } /* при наведении курсора мышки */
+.nx:active { background: #DCDCDC; } /* при нажатии */
+.nx {
+
+    position: absolute;
+    top: 83%;
+    left: 78.8%;
+}
+
+.but2 {
+  font-size: 50px;
+  color: #fff; /* цвет текста */
+  text-decoration: none; /* убирать подчёркивание у ссылок */
+  user-select: none; /* убирать выделение текста */
+  background: #C0C0C0; /* фон кнопки */
+  padding: .08em .7em; /* отступ от текста */
+  outline: none; /* убирать контур в Mozilla */
+} 
+.but2:hover { background: #D3D3D3; } /* при наведении курсора мышки */
+.but2:active { background: #DCDCDC; } /* при нажатии */
+.but2 {
+    text-align: center;
+    position: absolute;
+    width: 20%;
+    top: 75%;
+    left: 47.4%;
+    margin: -125px 0 0 -125px;
+}
+
+.but3 {
+  font-size: 50px;
+  color: #fff; /* цвет текста */
+  text-decoration: none; /* убирать подчёркивание у ссылок */
+  user-select: none; /* убирать выделение текста */
+  background: #C0C0C0; /* фон кнопки */
+  padding: .08em .7em; /* отступ от текста */
+  outline: none; /* убирать контур в Mozilla */
+} 
+.but3:hover { background: #D3D3D3; } /* при наведении курсора мышки */
+.but3:active { background: #DCDCDC; } /* при нажатии */
+.but3 {
+    text-align: center;
+    position: absolute;
+    width: 20%;
+    top: 60%;
+    left: 47.4%;
+    margin: -125px 0 0 -125px;
+}
+
+.lg {
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 0px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+  color: #555;
+  display: block;
+  font-size: 20px;
+  height: 34px;
+  line-height: 1.42857;
+  padding: 6px 12px;
+  transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+  width: 24%;
+  opacity: 0.6;
+  position: absolute;
+  margin-top: 3%;
+  margin-left: 37%;
+}
+
+.pw {
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 0px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+  color: #555;
+  display: block;
+  font-size: 20px;
+  height: 34px;
+  line-height: 1.42857;
+  padding: 6px 12px;
+  transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+  width: 24%;
+  opacity: 0.6;
+  position: absolute;
+  margin-top: 7%;
+  margin-left: 37%;
+}
+
+.in {
+  font-size: 50px;
+  color: #fff; /* цвет текста */
+  text-decoration: none; /* убирать подчёркивание у ссылок */
+  user-select: none; /* убирать выделение текста */
+  background: #C0C0C0; /* фон кнопки */
+  padding: .08em .7em; /* отступ от текста */
+  outline: none; /* убирать контур в Mozilla */
+} 
+.in:hover { background: #D3D3D3; } /* при наведении курсора мышки */
+.in:active { background: #DCDCDC; } /* при нажатии */
+.in {
+    text-align: center;
+    position: absolute;
+    width: 18.8%;
+    margin-top: 16%;
+    margin-left: 37%;
+}
